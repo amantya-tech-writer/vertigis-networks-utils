@@ -1,4 +1,4 @@
-# VertiGIS DXF Export Service Helm Chart
+# Deploy VertiGIS DXF Export Service using Helm Chart
 
 ## Introduction
 
