@@ -1,4 +1,4 @@
-# VertiGIS DXF Export Backend API: Docker Deployment Guide (Linux)
+# Deploy VertiGIS DXF Export Backend API on Linux
 
 This guide documents how to deploy the **VertiGIS DXF Export Backend API** using Docker containers on an Ubuntu Linux host, using the `dxfexport_linux.sh` deployment script. It reflects a tested end-to-end run (including a local test with a throwaway PostgreSQL container) and the script's actual supported options as of v2.2.
 
